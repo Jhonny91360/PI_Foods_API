@@ -1,0 +1,32 @@
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgb(229, 149, 57);
+    border-radius: 5px;
+    color: #ffffff;
+    margin-top: 2%;
+    border: 1px solid rgb(247, 247, 246);
+    
+}
+
+.container img {
+    border:rgb(247, 247, 246) solid 2px;
+    border-radius: 10%;
+    width: 570px;
+    height: 374px;
+}
+.container p{
+    text-align: justify;
+}
+
+.goBack{
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #f9d8b6;
+    color: #ffffff;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}

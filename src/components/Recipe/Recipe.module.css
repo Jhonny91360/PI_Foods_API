@@ -1,0 +1,79 @@
+.my-card {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(229, 149, 57); /* color de fondo */
+    border: 2px solid rgb(247, 247, 246);
+    border-radius: 40px; /* esquinas redondeadas */
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    opacity: 0.95;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  .my-card:hover {
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
+  }
+
+  .my-card:hover .overlay {
+    opacity: 1;
+    visibility: visible;
+  }
+
+
+.my-card img{
+    
+    margin-top: 8%;
+    width: 90%;
+    height: 200px;
+    border: rgb(229, 149, 57) solid 2px;
+    border-radius: 5%;
+    /* object-fit: contain; */
+    
+}
+
+.my-card a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.my-card_recuadro{
+    width: 300px;
+    height: 250px;
+    background-color: #f9d8b6;
+    position: absolute;
+    top: 100px;  /*  Esta posicion es respecto a my-card que es el padre con position relative*/
+    
+}
+
+.overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        visibility: hidden;
+        background-color: rgba(0, 0, 0, 0.8);
+        border-radius: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-family:Arial, Helvetica, sans-serif;
+        transition: opacity 0.3s ease-in-out;
+        text-align: left;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li::before {
+    content: "🍴";
+    margin-right: 0.5em;
+  }

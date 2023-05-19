@@ -1,0 +1,95 @@
+.formulario {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgb(229, 149, 57);
+    border-radius: 5px;
+    color: #ffffff;
+    margin-top: 2%;
+    border: 1px solid rgb(247, 247, 246);
+  }
+
+ 
+
+  .campo {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  input,
+  textarea {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    resize: none;
+    border: 3px solid #f9d8b6;
+  }
+  
+  
+  /* button[type='submit'] {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #f9d8b6;
+    color: #ffffff;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+   */
+.errors {
+    color:blue;
+    font-size: 12px;
+}
+
+.divButtons{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+.goBack{
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #f9d8b6;
+    color: #ffffff;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.buttonError{
+  background-color: rgb(103, 103, 245);;
+  padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+  
+    color: #ffffff;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.buttonOk{
+  background-color: #f9d8b6;
+  padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+   
+    color: #ffffff;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
