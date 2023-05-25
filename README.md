@@ -1,8 +1,8 @@
 # Proyecto individual - Food App
 
 ![portada](public\foodApp.png)
-    
-   
+![presentacion]([https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif](https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4))    
+
 # Objetivos del proyecto 🖥️
 
 Crear una aplicacion web donde se puedan encontrar diferentes tipos de recetas de cocina, utilizando la API externa (https://spoonacular.com/food-api)
