@@ -1,7 +1,7 @@
 # Proyecto individual - Food App
 
 ![portada](public\foodApp.png)
-![presentacion]([https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif](https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4))    
+![presentacion](https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4)    
 
 # Objetivos del proyecto 🖥️
 
