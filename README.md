@@ -1,6 +1,6 @@
 # Proyecto individual - Food App
 
-![portada](public\foodApp.png)
+![portada]([public\foodApp.png](https://github.com/Jhonny91360/PI_Foods_APP/blob/main/public/foodApp.png))
     
    
 # Objetivos del proyecto 🖥️
