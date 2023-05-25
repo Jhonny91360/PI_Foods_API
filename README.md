@@ -1,13 +1,6 @@
 # Proyecto individual - Food App
 
 ![portada](public\foodApp.png)
-![presentacion](https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4)    
-
-<video width="320" height="240" controls>
-  <source src="https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
 
 https://pifoodsapp-production.up.railway.app/pexels-pressmaster-3196344-3840x2160-25fps.mp4
 # Objetivos del proyecto 🖥️
