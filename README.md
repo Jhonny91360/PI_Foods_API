@@ -1,6 +1,6 @@
 # Proyecto individual - Food App
 
-![portada](public\foodApp.png)
+![portada](public/foodApp.png)
 
 # Objetivos del proyecto 🖥️
 
